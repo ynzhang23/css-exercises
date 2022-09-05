@@ -1,18 +1,18 @@
-#odd{
+.odd{
     background-color: rgb(220, 144, 144);
     font-family: "Verdana", "DejaVu Sans", sans-serif;
 }
 
-.s2{
+#s2{
     color: #0000ff;
     font-size: 36px;
 }
 
-.s3{
+#s3{
     font-size: 24px;
 }
 
-.s4{
+#s4{
     background-color: #70e770;
     font-size: 24px;
     font-weight: bold;
