@@ -5,6 +5,7 @@ body {
 .body{
   display: flex;
   gap: 52px;
+  justify-content: center;
 }
 
 .header{
@@ -20,6 +21,7 @@ body {
   display: flex;
   flex-direction: column;
   align-items: center;
+  max-width: 200px;
 }
 
 .text {
